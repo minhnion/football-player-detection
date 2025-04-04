@@ -2,10 +2,6 @@ Dự án này sử dụng YOLOv8 cùng với kỹ thuật tăng cường dữ li
 Mục tiêu là tối ưu hóa phát hiện các đối tượng trên với độ chính xác cao.
 Dự án được xây dựng trên nền tảng PyTorch và sử dụng các thư viện như Ultralytics (YOLOv8), Albumentations, OpenCV, và matplotlib.
 
-Yêu Cầu
-![image](https://github.com/user-attachments/assets/3d2827b0-9af9-45a0-9c14-86e888c111b1)
-
-
 Dataset: https://www.kaggle.com/datasets/borhanitrash/football-players-detection-dataset
 
 Cài Đặt
